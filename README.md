@@ -93,3 +93,8 @@ to estimate time without modern tools.
 ---
 
 ## 📁 Project Structure
+
+project-folder/
+│
+├── prayerSimulation.html
+└── README.md
