@@ -97,4 +97,5 @@ to estimate time without modern tools.
 project-folder/
 │
 ├── prayerSimulation.html
+|
 └── README.md
